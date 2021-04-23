@@ -1,6 +1,6 @@
 module.exports = (req, res) => {
     const {
-        query: { name }
+        query: { name },
     } = req
     const now = new Date();
 
