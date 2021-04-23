@@ -1,7 +1,7 @@
 module.exports = (req, res) => {
     const {
-        query: { name },
+        query: { redirect },
     } = req
 
-    res.send(`Hello ${name}!`)
+    res.send(`Hello ${redirect}!`)
 }
