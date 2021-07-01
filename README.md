@@ -1,6 +1,7 @@
 # 280blocker Redirecter
 
-280blockerのリダイレクター。
+280blockerのリダイレクター。  
+「Redirector」じゃなくて「Redirecter」なのはご愛嬌。
 
 ## 使い方
 
